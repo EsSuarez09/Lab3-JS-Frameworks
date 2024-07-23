@@ -1,0 +1,50 @@
+[
+    {
+        "airport_code": "BXR",
+        "passenger_fullname": "Launce Salvin",
+        "flight_date": "10/25/2024",
+        "country_departure": "Kenya",
+        "airport_name": "Jomo Kenyatta International Airport",
+        "country_destination": "United States"
+    },
+    {
+        "airport_code": "JUT",
+        "passenger_fullname": "Ashton London",
+        "flight_date": "09/22/2024",
+        "country_departure": "Japan",
+        "airport_name": "Narita International Airport",
+        "country_destination": "Canada"
+    },
+    {
+        "airport_code": "SDC",
+        "passenger_fullname": "Travus Chapiro",
+        "flight_date": "08/08/2024",
+        "country_departure": "United Arab Emirates",
+        "airport_name": "Dubai International Airport",
+        "country_destination": "Australia"
+    },
+    {
+        "airport_code": "ERN",
+        "passenger_fullname": "Alexine Ramsell",
+        "flight_date": "5/30/2025",
+        "country_departure": "India",
+        "airport_name": "Indira Gandhi International Airport",
+        "country_destination": "Germany"
+    },
+    {
+        "airport_code": "JGO",
+        "passenger_fullname": "Verna Bygrave",
+        "flight_date": "02/24/2025",
+        "country_departure": "China",
+        "airport_name": "Beijing Capital International Airport",
+        "country_destination": "Brazil"
+    },
+    {
+        "airport_code": "ADU",
+        "passenger_fullname": "Ly Fawdery",
+        "flight_date": "11/02/2024",
+        "country_departure": "Singapore",
+        "airport_name": "Changi Airport",
+        "country_destination": "United Kingdom"
+    }
+]

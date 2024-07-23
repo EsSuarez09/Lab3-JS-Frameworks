@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "lab3-js-frameworks",
+  "version": "1.0.0",
+  "description": "Lab3 in JavaScript",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index3.js"
+  },
+  "keywords": [],
+  "author": "Maria, Yuka, Kevin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
